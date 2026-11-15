@@ -28,7 +28,9 @@ Meet Lumi, our robotic museum guide, and explore the forgotten stories of human 
 ## Getting Started
 
 Project: https://shadow71234.github.io/space-museum/
+
 Some images and 3D assets may take a few moments to load. Please be patient while the museum is loading.
+
 Demo: https://youtu.be/LApi8p0Tyoo?si=qYrwwTmc7TgMAhk4
 
 ## Data & Resources
